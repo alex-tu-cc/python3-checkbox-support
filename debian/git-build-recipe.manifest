@@ -1,0 +1,3 @@
+# git-build-recipe format 0.4 deb-version {debupstream}+git202010151435+pkg130
+lp:checkbox-support git-commit:f540e7737fb93b9b0d9abd4533c70accc8243b23
+nest-part packaging lp:~checkbox-dev/checkbox-support/+git/packaging debian debian git-commit:522aaeb7bb336a69842b38b13bac2d07b28d1449
